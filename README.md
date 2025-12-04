@@ -74,8 +74,8 @@ A real-time cryptocurrency tracking web app featuring:
 ---
 
 ## 📫 Contact Me
-📧 **Email:** oliyad@example.com *(change this)*  
-💼 **Portfolio:** coming soon…
+📧 **Email: oliyaddandana@gmail.com
+💼 **Portfolio:[** coming soon…](https://oliyad-oli.github.io/mypersonal-portfolio/)
 
 ---
 
