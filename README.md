@@ -72,7 +72,7 @@ A modern chat system built with:
 ✔ Socket.io  
 ✔ Clean, minimal, beautiful UI/UX  
 
-👉 *Live demo and repo coming soon…*
+👉 *Live demo and repo:* [https://my-portfolio-web-two-rho.vercel.app/](https://my-portfolio-web-two-rho.vercel.app/)
 
 ---
 
@@ -98,7 +98,7 @@ A modern chat system built with:
 `oliyaddandana@gmail.com`
 
 🌐 **Portfolio:**  
-Coming soon…
+[https://my-portfolio-web-two-rho.vercel.app/](https://my-portfolio-web-two-rho.vercel.app/)
 
 ---
 
