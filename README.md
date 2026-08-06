@@ -154,7 +154,8 @@ A premium **Supermarket & Café E-Commerce Platform** designed to provide custom
 
 **Tech Stack**
 
-`Flutter` • `Dart` • `Supabase` • `PostgreSQL` • `REST API`
+`Next.js` • `React` • `Tailwind CSS` • `Node.js`  • `PostgreSQL` • `REST API`
+`https://centra-mart-supermarket.vercel.app/`
 
 ---
 
@@ -174,6 +175,7 @@ A modern hospital website providing healthcare information, online appointment b
 **Tech Stack**
 
 `Next.js` • `React` • `Tailwind CSS` • `Node.js` • `MongoDB`
+`https://forlife-website-ruddy.vercel.app/`
 
 ---
 
