@@ -138,26 +138,29 @@ I enjoy learning new technologies, collaborating on exciting projects, and conti
 
 ## 🛒 Centra Mart & Cafe
 
-A premium **Supermarket & Café E-Commerce Platform** designed to provide customers with a seamless online shopping experience.
+A premium supermarket and café e-commerce website that provides customers with a seamless online shopping experience.
 
-### Features
+### ✨ Features
 
-- 🛍️ Product Catalog
-- 🔍 Smart Search & Filtering
-- ❤️ Wishlist
+- 🛍️ Browse Products
+- 🔍 Smart Search & Categories
 - 🛒 Shopping Cart
+- ❤️ Wishlist
+- 🔐 User Authentication
 - 💳 Secure Checkout
 - 📦 Order Tracking
-- 🔐 Authentication
-- 📱 Responsive Mobile Experience
-- ☁️ Supabase Backend
+- 📱 Fully Responsive Design
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-`Next.js` • `React` • `Tailwind CSS` • `Node.js`  • `PostgreSQL` • `REST API`
-`https://centra-mart-supermarket.vercel.app/`
+`React` • `Next.js` • `Tailwind CSS` • `Supabase` • `PostgreSQL`
+
+### 🌐 Links
+
+- 🚀 **Live Demo:** [Centra Mart & Cafe](https://centra-mart-supermarket.vercel.app/)
 
 ---
+
 
 ## 🏥 ForLife Hospital Website
 
@@ -175,7 +178,11 @@ A modern hospital website providing healthcare information, online appointment b
 **Tech Stack**
 
 `Next.js` • `React` • `Tailwind CSS` • `Node.js` • `MongoDB`
-`https://forlife-website-ruddy.vercel.app/`
+
+### 🚀 Live Demo
+
+👉 **Website:** https://forlife-website-ruddy.vercel.app/
+
 
 ---
 
